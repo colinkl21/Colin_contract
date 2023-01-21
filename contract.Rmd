@@ -159,13 +159,11 @@ I, `r params$name`, agree to :
 
 ## SCHEDULE
 
-Note: This is an example schedule. You are welcomed and encouraged to rearrange these labs and events to fit your needs.
-
 - [ ] `r advdate(dayone, 1, topic)`
   - Finish Lab 1 by `r startweek`:  `r advdate(dayone, 1, assignment=startweek)`
 - [ ] `r advdate(dayone, 2, topic)`
   - Finish Lab 2 by `r startweek`:  `r advdate(dayone, 2, assignment=startweek)`
-  - Propose your contract to Mason by `r startweek`:  `r advdate(dayone, 2, assignment=startweek)`
+  - Propose your contract to Mason by `Saturday`:  `1/21`
 - [ ]  `r advdate(dayone, 3, topic)`
   - Finish Lab 3  by `r startweek`:  `r advdate(dayone, 3, assignment=startweek)`
   - Finish portfolio piece 1 by `r startweek`:  `r advdate(dayone, 3, assignment=startweek)`

@@ -1,6 +1,6 @@
 Grading Contract
 ================
-January 17 2023
+January 21 2023
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
@@ -27,9 +27,6 @@ I, Colin Li, agree to :
 
 ## SCHEDULE
 
-Note: This is an example schedule. You are welcomed and encouraged to
-rearrange these labs and events to fit your needs.
-
 - [ ] Module 01, 01/09 - 01/13 : What is Data Science and Meet the
   Toolkit
 
@@ -38,7 +35,7 @@ rearrange these labs and events to fit your needs.
 - [ ] Module 02, 01/16 - 01/20 : Data and Visualization
 
   - Finish Lab 2 by Friday: 01/20
-  - Propose your contract to Mason by Friday: 01/20
+  - Propose your contract to Mason by `Saturday`: `1/21`
 
 - [ ] Module 03, 01/23 - 01/27 : Grammar of data wrangling
 
